@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/home/justinjarjar/Scala/SQLPhil/src/main/scala/SQLPhil.scala:58:5: value show is not a member of org.apache.spark.sql.RelationalGroupedDataset[0m
+[0m[[0m[31merror[0m] [0m[0mpossible cause: maybe a semicolon is missing before `value show'?[0m
+[0m[[0m[31merror[0m] [0m[0m 	 .show(100)[0m
+[0m[[0m[31merror[0m] [0m[0m 	  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

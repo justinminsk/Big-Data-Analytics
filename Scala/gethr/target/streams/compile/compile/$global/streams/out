@@ -1,0 +1,31 @@
+[0m[[0m[31merror[0m] [0m[0m/home/justinjarjar/Scala/gethr/src/main/scala/gethr.scala:20:15: (String, Int) does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m		val year = t(0).slice(3,7)[0m
+[0m[[0m[31merror[0m] [0m[0m		            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/justinjarjar/Scala/gethr/src/main/scala/gethr.scala:21:16: (String, Int) does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m		val month = t(0).slice(3,7) + "-" + t(0).slice(7,9)[0m
+[0m[[0m[31merror[0m] [0m[0m		             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/justinjarjar/Scala/gethr/src/main/scala/gethr.scala:21:40: (String, Int) does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m		val month = t(0).slice(3,7) + "-" + t(0).slice(7,9)[0m
+[0m[[0m[31merror[0m] [0m[0m		                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/justinjarjar/Scala/gethr/src/main/scala/gethr.scala:22:14: (String, Int) does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m		val day = t(0).slice(3,7) + "-" + t(0).slice(7,9) + "-" + t(0).slice(9,11)[0m
+[0m[[0m[31merror[0m] [0m[0m		           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/justinjarjar/Scala/gethr/src/main/scala/gethr.scala:22:38: (String, Int) does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m		val day = t(0).slice(3,7) + "-" + t(0).slice(7,9) + "-" + t(0).slice(9,11)[0m
+[0m[[0m[31merror[0m] [0m[0m		                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/justinjarjar/Scala/gethr/src/main/scala/gethr.scala:22:62: (String, Int) does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m		val day = t(0).slice(3,7) + "-" + t(0).slice(7,9) + "-" + t(0).slice(9,11)[0m
+[0m[[0m[31merror[0m] [0m[0m		                                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/justinjarjar/Scala/gethr/src/main/scala/gethr.scala:23:16: value split is not a member of (String, Int)[0m
+[0m[[0m[31merror[0m] [0m[0m		val name = t.split(" ")(1) + " " + t.split(" ")(2) + " " + t.split(" ")(3)[0m
+[0m[[0m[31merror[0m] [0m[0m		             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/justinjarjar/Scala/gethr/src/main/scala/gethr.scala:23:40: value split is not a member of (String, Int)[0m
+[0m[[0m[31merror[0m] [0m[0m		val name = t.split(" ")(1) + " " + t.split(" ")(2) + " " + t.split(" ")(3)[0m
+[0m[[0m[31merror[0m] [0m[0m		                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/justinjarjar/Scala/gethr/src/main/scala/gethr.scala:23:64: value split is not a member of (String, Int)[0m
+[0m[[0m[31merror[0m] [0m[0m		val name = t.split(" ")(1) + " " + t.split(" ")(2) + " " + t.split(" ")(3)[0m
+[0m[[0m[31merror[0m] [0m[0m		                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/justinjarjar/Scala/gethr/src/main/scala/gethr.scala:54:30: too many arguments for method println: (x: Any)Unit[0m
+[0m[[0m[31merror[0m] [0m[0m 	result.foreach(t => println(t._1,t._2))[0m
+[0m[[0m[31merror[0m] [0m[0m 	                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m10 errors found[0m

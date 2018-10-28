@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/justinjarjar/Scala/clustering/src/main/scala/clustering.scala:51:28: '<-' expected but ')' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    for(k in (2 to 10 by 1)) {[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/justinjarjar/Scala/clustering/src/main/scala/clustering.scala:56:1: illegal start of simple expression[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

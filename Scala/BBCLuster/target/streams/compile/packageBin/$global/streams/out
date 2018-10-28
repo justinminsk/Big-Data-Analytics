@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/justinjarjar/Scala/BBCLuster/target/scala-2.11/bbcluster_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myFunc$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/Scala/BBCLuster/target/scala-2.11/classes/myFunc$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myFunc.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/Scala/BBCLuster/target/scala-2.11/classes/myFunc.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BBCLuster$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/Scala/BBCLuster/target/scala-2.11/classes/BBCLuster$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BBCLuster.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/Scala/BBCLuster/target/scala-2.11/classes/BBCLuster.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

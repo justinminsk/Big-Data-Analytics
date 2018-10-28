@@ -1,0 +1,24 @@
+label,count
+multihop, 7
+nmap, 2316
+neptune, 1072017
+warezclient, 1020
+ftp_write, 8
+phf, 4
+rootkit, 10
+teardrop, 979
+imap, 12
+smurf, 2807886
+portsweep, 10413
+spy, 2
+back, 2203
+normal, 972781
+guess_passwd, 53
+ipsweep, 12481
+satan, 15892
+loadmodule, 9
+buffer_overflow, 30
+warezmaster, 20
+pod, 264
+land, 21
+perl, 3

@@ -1,0 +1,12 @@
+sbt package
+ 
+creates target directory 
+
+./run_spark.sh
+
+
+
+
+println(t._1,t._2)
+
+Freddy Galvis

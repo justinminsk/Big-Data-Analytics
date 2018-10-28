@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/justinjarjar/ProcessGame/target/scala-2.11/processgame_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Myfunction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/ProcessGame/target/scala-2.11/classes/Myfunction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Myfunction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/ProcessGame/target/scala-2.11/classes/Myfunction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Practice$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/ProcessGame/target/scala-2.11/classes/Practice$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Practice.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/ProcessGame/target/scala-2.11/classes/Practice.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Practice$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/ProcessGame/target/scala-2.11/classes/Practice$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Practice$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/ProcessGame/target/scala-2.11/classes/Practice$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Practice$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/ProcessGame/target/scala-2.11/classes/Practice$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Myfunction$$anonfun$attach_id$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/ProcessGame/target/scala-2.11/classes/Myfunction$$anonfun$attach_id$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

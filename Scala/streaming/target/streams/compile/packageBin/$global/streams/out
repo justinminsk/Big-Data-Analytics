@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/justinjarjar/Scala/streaming/target/scala-2.11/streaming_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming$$anonfun$main$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/Scala/streaming/target/scala-2.11/classes/streaming$$anonfun$main$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/Scala/streaming/target/scala-2.11/classes/streaming$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming$$anonfun$main$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/Scala/streaming/target/scala-2.11/classes/streaming$$anonfun$main$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/Scala/streaming/target/scala-2.11/classes/streaming$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/Scala/streaming/target/scala-2.11/classes/streaming.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/Scala/streaming/target/scala-2.11/classes/streaming$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/Scala/streaming/target/scala-2.11/classes/streaming$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming$$anonfun$main$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/Scala/streaming/target/scala-2.11/classes/streaming$$anonfun$main$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/Scala/streaming/target/scala-2.11/classes/streaming$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/justinjarjar/Scala/streaming/target/scala-2.11/classes/streaming$$anonfun$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/justinjarjar/Scala/streaming/src/main/scala/streaming.scala:41:29: Char does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m			.filter(array => array(7)(0)=='H' && array(7)(1)!='P')[0m
+[0m[[0m[31merror[0m] [0m[0m			                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/justinjarjar/Scala/streaming/src/main/scala/streaming.scala:41:49: Char does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m			.filter(array => array(7)(0)=='H' && array(7)(1)!='P')[0m
+[0m[[0m[31merror[0m] [0m[0m			                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
